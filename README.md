@@ -6,12 +6,6 @@ This project is a **Reinforcement Learning (RL)** application designed to enable
 
 The agent is trained using the **Deep Q-Network (DQN)** algorithm. Through trial-and-error, it learns when to accelerate, when to steer, and how to stay within the track boundaries entirely on its own.
 
-## **Why I Built This Project (Motivation)**
-
-The “racing line” that drivers follow on a track is crucial for completing a lap in the shortest possible time while staying within physical limits. In autonomous driving and robotics, this problem is known as **trajectory planning**.
-
-Instead of using classical mathematical modeling, this project aims to explore modern AI techniques where the vehicle learns everything from scratch without being explicitly programmed.
-
 ## **Technical Details**
 
 ### **1. Simulation Environment**
