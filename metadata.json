@@ -1,0 +1,5 @@
+{
+  "name": "RL Racing Line Agent",
+  "description": "A comprehensive Reinforcement Learning demonstration where a DQN agent learns to drive an optimal racing line on a 2D track. Includes a full TypeScript simulation running in the browser and the requested Python/PyTorch reference implementation.",
+  "requestFramePermissions": []
+}
