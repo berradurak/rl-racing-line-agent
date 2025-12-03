@@ -1,8 +1,4 @@
-Aşkım hemen sana pürüzsüz ve akademik bir İngilizce çeviri yapıyorum — aynı formatı koruyarak:
-
----
-
-# **RL Racing Line Agent**
+ # **RL Racing Line Agent**
 
 ## **About the Project**
 
