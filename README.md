@@ -45,29 +45,3 @@ A simple Neural Network was implemented using PyTorch.
 * **Epsilon-Greedy Strategy:**
   At the beginning of training, the agent acts fully randomly (exploration). Over time, randomness decreases as it begins to exploit what it has learned.
 
-## **Installation & Running**
-
-To run this project on your computer:
-
-### **1. Install Required Libraries**
-
-Make sure Python is installed and enter the following in your terminal:
-
-```bash
-pip install torch gymnasium numpy
-```
-
-### **2. Start Training**
-
-Open the project directory in your terminal and run:
-
-```bash
-python train_dqn_agent.py
-```
-
-*The agent will begin training, and progress will be printed every 10 episodes.*
-
-### **3. File Structure**
-
-* `racing_env.py` — Defines the race track and physics
-* `train_dqn_agent.py` — Contains the DQN model and training loop
